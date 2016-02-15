@@ -4,7 +4,7 @@
 #
 Name     : semantic_version
 Version  : 2.4.2
-Release  : 9
+Release  : 10
 URL      : https://pypi.python.org/packages/source/s/semantic_version/semantic_version-2.4.2.tar.gz
 Source0  : https://pypi.python.org/packages/source/s/semantic_version/semantic_version-2.4.2.tar.gz
 Summary  : A library implementing the 'SemVer' scheme.
