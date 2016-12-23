@@ -4,7 +4,7 @@
 #
 Name     : semantic_version
 Version  : 2.6.0
-Release  : 15
+Release  : 16
 URL      : http://pypi.debian.net/semantic_version/semantic_version-2.6.0.tar.gz
 Source0  : http://pypi.debian.net/semantic_version/semantic_version-2.6.0.tar.gz
 Summary  : A library implementing the 'SemVer' scheme.
