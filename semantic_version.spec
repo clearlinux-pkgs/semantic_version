@@ -4,7 +4,7 @@
 #
 Name     : semantic_version
 Version  : 2.6.0
-Release  : 23
+Release  : 24
 URL      : https://files.pythonhosted.org/packages/72/83/f76958017f3094b072d8e3a72d25c3ed65f754cc607fdb6a7b33d84ab1d5/semantic_version-2.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/72/83/f76958017f3094b072d8e3a72d25c3ed65f754cc607fdb6a7b33d84ab1d5/semantic_version-2.6.0.tar.gz
 Summary  : A library implementing the 'SemVer' scheme.
