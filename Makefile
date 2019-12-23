@@ -1,5 +1,5 @@
 PKG_NAME := semantic_version
-URL = https://files.pythonhosted.org/packages/a3/8d/696baddf6cdd87004600bf6f05dc5f3d1eb9b0cdd67b8b4da4ac6c718d03/semantic_version-2.8.3.tar.gz
+URL = https://files.pythonhosted.org/packages/67/24/7e8fcb6aa88bfc018f8e4c48c4dbc8e87d8c7b3c0d0d8b3b0c61a34d32c7/semantic_version-2.8.4.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
